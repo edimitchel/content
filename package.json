@@ -54,7 +54,7 @@
     "mdast-util-to-hast": "^12.2.4",
     "mdurl": "^1.0.1",
     "ohash": "^0.1.5",
-    "pathe": "^0.3.8",
+    "pathe": "^0.3.9",
     "property-information": "^6.1.1",
     "rehype-external-links": "^2.0.1",
     "rehype-raw": "^6.1.1",
@@ -95,7 +95,7 @@
     "nuxt": "npm:nuxt3@latest",
     "rehype-figure": "^1.0.1",
     "remark-oembed": "^1.2.2",
-    "vitest": "^0.23.4",
+    "vitest": "^0.24.0",
     "vue-docgen-web-types": "^0.1.8"
   }
 }
